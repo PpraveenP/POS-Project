@@ -1,0 +1,399 @@
+
+
+SELECT * FROM pos_test.country;
+
+
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Afghan Afghani","AFGHANISTAN","+93","AFN","؋","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Lek","ALBANIA","+355","ALL","Lek","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Algerian Donar","Algeria","+213","ALA","دج","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","ANDORRA","+376","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Kwanza","ANGOLA","+244","AOA","Kz","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("East Caribbean Dollar","ANTIGUA AND BARBUDA","+126","XCD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Argentine Peso","ARGENTINA","+54","ARS","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Armenian Dram","ARMENIA","+374","AMD","֏","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Doller","Australia","+43","AUD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","AUSTRIA","+61","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Manat","Azerbaijan","+994","AZN","₼","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Bahamian Dollar","BAHAMAS ","+124","BSD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Bahraini Dinar","BAHRAIN","+973","BHD","د.ب","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Taka","BANGLADESH","+880","ARS","৳","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Barbados Dollar","BARBADOS","+124","BBD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Belarussian Ruble","BELARUS","+375","BYN","Br","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","BELGIUM","+32","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Belize Dollar","BELIZE","+501","BZD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BCEAO","BENIN","+229","XOF","CFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Indian Rupee","BHUTAN","+975","INR","BTN","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Boliviano","BOLIVIA","+591","BOB","B$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Convertible Mark","BOSNIA AND HERZEGOVINA","+387","BAM","КМ","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Pula","BOTSWANA","+267","BWP","P","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Brazilian Real","BRAZIL","+267","BRL","BZ$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("US Dollar","BURUNDI","+257","USD","FBu","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Brunei Dollar","BRUNEI DARUSSALAM","+673","BND","B$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BCEAO","BULGARIA","+359","XOF","Лв","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Burundi Franc","BURKINA FASO","+226","BIF","CFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Franc CFA,","COTE D'IVOIRE","+225","CFA","CFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Cabo Verde Escudo","CABO VERDE","+226","CVE","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Riel","CAMBODIA","+855","KHR","៛","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BEAC","CAMEROON","+237","XAF","FCFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Canadian Dollar","CANADA","+1","CAD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BEAC","CENTRAL AFRICAN REPUBLIC","+236","XAF","FCFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BEAC","CHAD","+235","XAF","FCFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Yuan Renminbi","CHINA","+86","CNY","¥","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Colombian Peso","COLOMBIA","+57","COP","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Comoro Franc","COMOROS ","+269","KMF","CF","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Us Dollar","CONGO","+243","USD","FC","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Costa Rican Colon","COSTA RICA","+506","CRC","₡","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Kuna","CROATIA","+385","HRK","kn","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Peso Convertible","CUBA","+53","CUC","₱","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","CYPRUS","+357","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Czech Koruna","CZECH REPUBLIC","+420","CZK","Kč","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Congolese Franc","DEMOCRATIC REPUBLIC OF THE CONGO","+243","CDF","FC","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Danish Krone","DENMARK","+45","DKK","Kr.","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Djibouti Franc","DJIBOUTI","+253","DJF","Fdj","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("East Caribbean Dollar","DOMINICA","+176","XCD","RD$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Dominican Peso","DOMINICAN REPUBLIC","+180","DOP","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("US Dollar","ECUADOR","+593","USD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Egyptian Pound","EGYPT","+20","EGP","E£","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("El Salvador Colon","EL SALVADOR","+503","SVC","₡‎","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BEAC","EQUATORIAL GUINEA","+240","XAF","FCFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Nakfa","ERITREA","+291","ERN","نافكا","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","ESTONIA","+372","EUR","KR‎","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Swazi Lilangeni","ESWATINI","+268","SZL","L","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Ethiopian Birr","ETHIOPIA","+251","ETB","ብር","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Fiji Dollar","FIJI","+679","FJD","FJ$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","FINLAND","+358","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","FRANCE","+33","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BEAC","GABON","+241","XAF","FCFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Dalasi","GAMBIA","+220","GMD","GMD","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Lari","GEORGIA","+995","GEL","GEL","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","GERMANY","+49","EUR","€1.","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Ghana Cedi","GHANA","+233","GHS","GH¢","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","GREECE","+30","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("East Caribbean Dollar","GRENADA","+147","XCD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Quetzal","GUATEMALA","+502","GTQ","Q","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Guinea Franc","GUINEA","+224","GNF","FG‎","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BCEAO","GUINEA-BISSAU","+245","XOF","CFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Guyana Dollar","GUYANA","+592","GYD","G$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Gourde","HAITI","+509","HTG","G","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Lempira","HONDURAS","+504","HNL","L","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","HOLY SEE","+379","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Forint","HUNGARY","+36","HUF","Ft","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Iceland Krona","ICELAND","+354","ISK","Íkr","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Indian Rupee","INDIA","+91","INR","₹","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Rupiah","INDONESIA","+62","IDR","Rp","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Iranian Rial","IRAN","+98","IRR","﷼","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Iraqi Dinar","IRAQ","+98","IQD","ع.د","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","IRELAND","+353","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("New Israeli Sheqel","ISRAEL","+972","ILS","₪","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","ITALY","+39","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Jamaican Dollar","JAMAICA","+187","JMD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Yen","JAPAN","+81","JPY","¥","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Jordanian Dinar","JORDAN","+962","JOD","JOD","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Tenge","KAZAKHSTAN","+7","KZT","₸","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Kenyan Shilling","KENYA","+254","KES","Ksh","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Australian Dollar","KIRIBATI","+686","AUD","$‎","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Kuwaiti Dinar","KUWAIT","+965","KWD","KD","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Som","KYRGYZSTAN","+996","KGS","KGZ","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Kip","LAOS","+857","LAK","₭","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","LATVIA","+371","EUR","Ls","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Lebanese Pound","LEBANON","+961","LBP","ل.ل.‎","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Loti","LESOTHO","+266","LSL","L","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Liberian Dollar","LIBERIA",""+231,"LRD","L$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Libyan Dinar","LIBYA","+218","LYD","L$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Swiss Franc","LIECHTENSTEIN","+423","CHF","CHF","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","LITHUANIA","+978","EUR","Lt","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","LUXEMBOURG","+370","EUR","LTL","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Malagasy Ariary","MADAGASCAR","+261","MGA","Ar","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Kwacha","MALAWI","+265","MWK","MK","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Malaysian Ringgit","MALAYSIA","+60","MYR","RM","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Rufiyaa","MALDIVES","+960","MVR",".ރ","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BCEAO	","MALI","+223","XOF","CFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","MALTA","+356","EUR","£M ","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("US Dollar","MARSHALL ISLANDS","+692","USD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Ouguiya","MAURITANIA","+222","MRU","MRU","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Mauritius Rupee","MAURITIUS","+230","MUR","₨","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Mexican Peso","MEXICO","+52","MXN","Mex$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("US Dollar","MICRONESIA","+691","USD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Moldovan Leu","MOLDOVA","+373","MDL","L","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","MONACO","+377","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Tugrik","MONGOLIA","+976","MNT","₮","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","MONTENEGRO","+382","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Moroccan Dirham","MOROCCO","+212","MAD","MAD","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Mozambique Metical","MOZAMBIQUE","+258","MZN","MT","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Kyat","MYANMAR","+95","MMK","K","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Namibia Dollar","NAMIBIA","+264","NAD","N$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Australian Dollar","NAURU","+674","AUD","A$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Nepalese Rupee","NEPAL","+977","NPR","Re","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","NETHERLANDS","+31","EUR","ƒ‎","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("New Zealand Dollar","NEW ZEALAND","+64","NZD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Cordoba Oro","NICARAGUA","+505","NIO","C$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BCEAO","NIGER","+227","XOF","CFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Naira","NIGERIA","+234","NGN","₦","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("North korea Won","NORTH KOREA","+850","KPW","₩","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Macedonian Denar","NORTH MACEDONIA","+389","MKD","Ден","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Norwegian Krone","NORWAY","+47","NOK","kr","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Rial Omani","OMAN","+968","OMR","ر.ع","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Pakistan Rupee","PAKISTAN","+92","PKR","Rs","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("US Dollar","PALAU","+680","USD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Israeli new shekel","PALESTINE STATE","+970","ILS","£P","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Balboa","PANAMA","+507","PAB","B/.","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Kina","PAPUA NEW GUINEA","+675","PGK","K","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Guarani","PARAGUAY","+595","PYG","₲","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Nuevo Sol","PERU","+51","PEN","S/","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Philippine Peso","PHILIPPINES","+63","PHP","₱","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Zloty","POLAND","+48","PLN","zł","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","PORTUGAL","+351","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Qatari Rial","QATAR","+974","QAR","ر.ق","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Romanian Leu","ROMANIA","+40","RON","lei","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Russian Ruble","RUSSIA","+7","RUB","₽","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Rwanda Franc","RWANDA","+250","RWF","FRw","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("East Caribbean Dollar","SAINT KITTS AND NEVIS","+869","XCD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("East Caribbean Dollar","SAINT LUCIA","+175","XCD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("East Caribbean Dollar","SAINT VINCENT AND THE GRENADINES",+"178","XCD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Tala","SAMOA","+685","WST","SAT","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","SAN MARINO","+378","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Dobra","SAO TOME AND PRINCIPE","+239","STN","Db","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Saudi Riyal","SAUDI ARABIA","+966","SAR"," ﷼‎","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BCEAO","SENEGAL","+221","XOF","CFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Serbian Dinar","SERBIA","+381","RSD","din","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Seychelles Rupee","SEYCHELLES","+248","SCR","SRe","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Leone","SIERRA LEONE","+232","SLE","Le","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Singapore Dollar","SINGAPORE","+65","SGD","S$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","SLOVAKIA","+421","EUR","Sk","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","SLOVENIA","+386","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Solomon Islands Dollar","SOLOMON ISLANDS","+677","SBD","Si$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Somali Shilling","SOMALIA","+252","SOS"," Sh.so.","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("South African Rand","SOUTH AFRICA","+27","ZAR","R","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("korean won","SOUTH KOREA","+27","KRW","₩","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("South Sudanese Pound","SOUTH SUDAN","+211","SSP","£","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Euro","SPAIN","+34","EUR","€","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Sri Lanka Rupee","SRI LANKA","+94","LKR","Rs","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Sudanese Pound","SUDAN","+249","SDG","ج.س.","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Surinam Dollar","SURINAME","+597","SRD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Lilangeni","SWITZERLAND","+268","SZL","CHf","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Swedish Krona","SWEDEN","+46","SEK","kr","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Syrian pound","SYRIA","+963","SYP","£S","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Somoni","TAJIKISTAN","+992","TJS","ЅM","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Tanzanian Shilling","TANZANIA","+255","TZS","TSh","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Baht","THAILAND","+66","THB","฿","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("US Dollar","TIMOR-LESTE","+670","USD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("CFA Franc BCEAO","TOGO","+228","XOF","F.CFA","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Pa’anga","TONGA","+676","TOP","T$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Trinidad and Tobago Dollar","TRINIDAD AND TOBAGO","+186","TTD","TT$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Tunisian Dinar","TUNISIA","+216","TND","د.ت","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Turkish Lira","TURKEY","+90","TRY","₺","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Turkmenistan New Manat","TURKMENISTAN","+993","TMT","T ","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Australian Dollar","TUVALU","+688","AUD","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Uganda Shilling","UGANDA","+256","UGX","USh","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Hryvnia","UKRAINE","+380","UAH","₴","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("UAE Dirham","UNITED ARAB EMIRATES","+971","AED","د.إ","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Pound Sterling","UNITED KINGDOM","+44","UK","£","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("US Dollar","UNITED STATES OF AMERICA","+1","USA","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Uruguay Peso en Unidades Indexadas","URUGUAY","+598","UYI","$","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Uzbekistan Sum","UZBEKISTAN","+998","UZS","so'm","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Vatu","VANUATU","+678","VUV","VT","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Bolivar","VENEZUELA","+58","VEF","Bs","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Dong","VIETNAM","+84","VND","₫","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Yemeni Rial","YEMEN","+967","YER","﷼","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Zambian Kwacha","ZAMBIA","+260","ZMW","ZK","","");
+insert into country(currency, country, country_code,currency_symbol, currency_code,created_by,updated_by)
+values("Zimbabwe Dollar","ZIMBABWE","+263","ZWL","Z$","","");
+
+select * from country;
+
+
+
+

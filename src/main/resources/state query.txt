@@ -1,0 +1,2624 @@
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Badakhshan', 1),
+    ('Badghis', 1),
+    ('Baghlan', 1),
+    ('Balkh', 1),
+    ('Bamyan', 1),
+    ('Daykundi', 1),
+    ('Farah', 1),
+    ('Faryab', 1),
+    ('Ghazni', 1),
+    ('Ghor', 1),
+    ('Helmand', 1),
+    ('Herat', 1),
+    ('Jowzjan', 1),
+    ('Kabul', 1),
+    ('Kandahar', 1),
+    ('Kapisa', 1),
+    ('Khost', 1),
+    ('Kunar', 1),
+    ('Kunduz', 1),
+    ('Laghman', 1),
+    ('Logar', 1),
+    ('Nangarhar', 1),
+    ('Nimruz', 1),
+    ('Nuristan', 1),
+    ('Paktia', 1),
+    ('Paktika', 1),
+    ('Panjshir', 1),
+    ('Parwan', 1),
+    ('Samangan', 1),
+    ('Sar-e Pul', 1),
+    ('Takhar', 1),
+    ('Urozgan', 1),
+    ('Zabul', 1);
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Berat', 2),
+    ('Dibër', 2),
+    ('Durres', 2),
+    ('Elbasan', 2),
+    ('Fier', 2),
+    ('Gjirokastër', 2),
+    ('Korçë', 2),
+    ('Kukës', 2),
+    ('Lezhë', 2),
+    ('Shkodër', 2),
+    ('Tirana', 2),
+    ('Vlorë', 2);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Adrar', 3),
+    ('Ain Defla', 3),
+    ('Ain Temouchent', 3),
+    ('Algiers', 3),
+    ('Annaba', 3),
+    ('Batna', 3),
+    ('Bechar', 3),
+    ('Bejaia', 3),
+    ('Biskra', 3),
+    ('Blida', 3),
+    ('Bordj Bou Arreridj', 3),
+    ('Bouira', 3),
+    ('Boumerdes', 3),
+    ('Chlef', 3),
+    ('Constantine', 3),
+    ('Djelfa', 3),
+    ('El Bayadh', 3),
+    ('El Oued', 3),
+    ('El Tarf', 3),
+    ('Ghardaia', 3),
+    ('Guelma', 3),
+    ('Illizi', 3),
+    ('Jijel', 3),
+    ('Khenchela', 3),
+    ('Laghouat', 3),
+    ('MSila', 3),
+    ('Mascara', 3),
+    ('Medea', 3),
+    ('Mila', 3),
+    ('Mostaganem', 3),
+    ('Naama', 3),
+    ('Oran', 3),
+    ('Ouargla', 3),
+    ('Oum El Bouaghi', 3),
+    ('Relizane', 3),
+    ('Saida', 3),
+    ('Setif', 3),
+    ('Sidi Bel Abbes', 3),
+    ('Skikda', 3),
+    ('Souk Ahras', 3),
+    ('Tamanrasset', 3),
+    ('Tebessa', 3),
+    ('Tiaret', 3),
+    ('Tindouf', 3),
+    ('Tipaza', 3),
+    ('Tissemsilt', 3),
+    ('Tizi Ouzou', 3),
+    ('Tlemcen', 3);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Andorra la Vella', 4),
+    ('Canillo', 4),
+    ('Encamp', 4),
+    ('Escaldes-Engordany', 4),
+    ('La Massana', 4),
+    ('Ordino', 4),
+    ('Sant Julià de Lòria', 4);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bengo', 5),
+    ('Benguela', 5),
+    ('Bie', 5),
+    ('Cabinda', 5),
+    ('Cunene', 5),
+    ('Huambo', 5),
+    ('Huila', 5),
+    ('Luanda', 5),
+    ('Lunda Norte', 5),
+    ('Lunda Sul', 5),
+    ('Malanje', 5),
+    ('Moxico', 5),
+    ('Namibe', 5),
+    ('Uige', 5),
+    ('Zaire', 5);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Barbuda', 6),
+    ('Redonda', 6),
+    ('Saint George Parish', 6),
+    ('Saint John Parish', 6),
+    ('Saint Mary Parish', 6),
+    ('Saint Paul Parish', 6),
+     ('Saint Philip Parish', 6),
+    ('Saint Peter Parish', 6);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Buenos Aires', 7),
+    ('Catamarca', 7),
+    ('Chaco', 7),
+    ('Chubut', 7),
+    ('Córdoba', 7),
+    ('Corrientes', 7),
+    ('Entre Ríos', 7),
+    ('Formosa', 7),
+    ('Jujuy', 7),
+    ('La Pampa', 7),
+    ('La Rioja', 7),
+    ('Mendoza', 7),
+    ('Misiones', 7),
+    ('Neuquén', 7),
+    ('Río Negro', 7),
+    ('Salta', 7),
+    ('San Juan', 7),
+    ('San Luis', 7),
+    ('Santa Cruz', 7),
+    ('Santa Fe', 7),
+    ('Santiago del Estero', 7),
+    ('Tierra del Fuego', 7),
+    ('Tucumán', 7);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Aragatsotn', 8),
+    ('Ararat', 8),
+    ('Armavir', 8),
+    ('Gegharkunik', 8),
+    ('Kotayk', 8),
+    ('Lori', 8),
+    ('Shirak', 8),
+    ('Syunik', 8),
+    ('Tavush', 8),
+    ('Vayots Dzor', 8),
+    ('Yerevan', 8);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('New South Wales', 9),
+    ('Victoria', 9),
+    ('Queensland', 9),
+    ('Western Australia', 9),
+    ('South Australia', 9),
+    ('Tasmania', 9),
+    ('Australian Capital Territory', 9),
+    ('Northern Territory', 9);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Burgenland', 10),
+    ('Carinthia', 10),
+    ('Lower Austria', 10),
+    ('Upper Austria', 10),
+    ('Salzburg', 10),
+    ('Styria', 10),
+    ('Tyrol', 10),
+    ('Vorarlberg', 10),
+    ('Vienna', 10);
+    
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Absheron', 11),
+    ('Agdam', 11),
+    ('Agdash', 11),
+    ('Aghjabadi', 11),
+    ('Agstafa', 11),
+    ('Agsu', 11),
+    ('Zardab', 11);
+    
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Acklins', 12),
+    ('Berry Islands', 12),
+    ('Bimini', 12),
+    ('Black Point', 12),
+    ('Cat Island', 12),
+    ('Central Abaco', 12),
+    ('Central Andros', 12),
+    ('Central Eleuthera', 12),
+    ('City of Freeport', 12),
+    ('Crooked Island', 12),
+    ('East Grand Bahama', 12),
+    ('Exuma', 12),
+    ('Grand Cay', 12),
+    ('Harbour Island', 12),
+    ('Hope Town', 12),
+    ('Inagua', 12),
+    ('Long Island', 12),
+    ('Mangrove Cay', 12),
+    ('Mayaguana', 12),
+    ('Moore’s Island', 12),
+    ('North Abaco', 12),
+    ('North Andros', 12),
+    ('North Eleuthera', 12),
+    ('Ragged Island', 12),
+    ('Rum Cay', 12),
+    ('San Salvador', 12),
+    ('South Abaco', 12),
+    ('South Andros', 12),
+    ('South Eleuthera', 12),
+    ('Spanish Wells', 12),
+    ('West Grand Bahama', 12);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Capital Governorate', 13),
+    ('Central Governorate', 13),
+    ('Muharraq Governorate', 13),
+    ('Northern Governorate', 13),
+    ('Southern Governorate', 13);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Barisal', 14),
+    ('Chittagong', 14),
+    ('Dhaka', 14),
+    ('Khulna', 14),
+    ('Mymensingh', 14),
+    ('Rajshahi', 14),
+    ('Rangpur', 14),
+    ('Sylhet', 14);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Christ Church', 15),
+    ('Saint Andrew', 15),
+    ('Saint George', 15),
+    ('Saint James', 15),
+    ('Saint John', 15),
+    ('Saint Joseph', 15),
+    ('Saint Lucy', 15),
+    ('Saint Michael', 15),
+    ('Saint Peter', 15),
+    ('Saint Philip', 15);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Brest Region', 16),
+    ('Gomel Region', 16),
+    ('Grodno Region', 16),
+    ('Minsk Region', 16),
+    ('Mogilev Region', 16),
+    ('Vitebsk Region', 16);
+    
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Brussels-Capital Region', 17),
+    ('Flanders', 17),
+    ('Wallonia', 17);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Belize', 18),
+    ('Cayo', 18),
+    ('Corozal', 18),
+    ('Orange Walk', 18),
+    ('Stann Creek', 18),
+    ('Toledo', 18);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Alibori', 19),
+    ('Atakora', 19),
+    ('Atlantique', 19),
+    ('Borgou', 19),
+    ('Collines', 19),
+    ('Donga', 19),
+    ('Zou', 19);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bumthang', 20),
+    ('Chhukha', 20),
+    ('Dagana', 20),
+    ('Gasa', 20),
+    ('Haa', 20),
+    ('Lhuentse', 20),
+    ('Zhemgang', 20);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Beni', 21),
+    ('Chuquisaca', 21),
+    ('Cochabamba', 21),
+    ('La Paz', 21),
+    ('Oruro', 21),
+    ('Pando', 21),
+    ('Potosi', 21),
+    ('Santa Cruz', 21),
+    ('Tarija', 21);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Federation of Bosnia and Herzegovina', 22),
+    ('Republika Srpska', 22);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Central', 23),
+    ('Ghanzi', 23),
+    ('Kgalagadi', 23),
+    ('Kgatleng', 23),
+    ('Kweneng', 23),
+    ('North West', 23),
+    ('South East', 23);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Acre', 24),
+    ('Alagoas', 24),
+    ('Amapá', 24),
+    ('Amazonas', 24),
+    ('Bahia', 24),
+    ('Ceará', 24),
+    ('São Paulo', 24),
+    ('Rio de Janeiro', 24),
+    ('Rio Grande do Sul', 24),
+    ('Minas Gerais', 24);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bubanza', 25),
+    ('Bujumbura Mairie', 25),
+    ('Bujumbura Rural', 25),
+    ('Bururi', 25),
+    ('Cankuzo', 25),
+    ('Cibitoke', 25),
+    ('Muramvya', 25);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Belait', 26),
+    ('Brunei-Muara', 26),
+    ('Temburong', 26),
+    ('Tutong', 26);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Blagoevgrad', 27),
+    ('Burgas', 27),
+    ('Dobrich', 27),
+    ('Gabrovo', 27),
+    ('Haskovo', 27),
+    ('Kardzhali', 27),
+    ('Yambol', 27);
+    
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bam', 28),
+    ('Bazega', 28),
+    ('Bougouriba', 28),
+    ('Boulgou', 28),
+    ('Boulkiemde', 28),
+    ('Comoe', 28),
+    ('Zoundweogo', 28);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Abidjan', 29),
+    ('Bas-Sassandra', 29),
+    ('Comoé', 29),
+    ('Denguélé', 29),
+    ('Gôh-Djiboua', 29),
+    ('Lacs', 29),
+    ('Lagunes', 29),
+    ('Montagnes', 29),
+    ('Sassandra-Marahoué', 29),
+    ('Savanes', 29),
+    ('Vallée du Bandama', 29),
+    ('Worodougou', 29),
+    ('Zanzan', 29);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Barlavento Islands', 30),
+    ('Sotavento Islands', 30),
+    ('Boa Vista', 30),
+    ('Brava', 30),
+    ('Maio', 30),
+    ('Sal', 30),
+    ('Santiago', 30),
+    ('São Nicolau', 30),
+    ('São Vicente', 30);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Banteay Meanchey', 31),
+    ('Battambang', 31),
+    ('Kampong Cham', 31),
+    ('Kampong Chhnang', 31),
+    ('Kampong Speu', 31),
+    ('Kampong Thom', 31),
+    ('Kampot', 31),
+    ('Kandal', 31),
+    ('Kep', 31),
+    ('Koh Kong', 31),
+    ('Kratié', 31),
+    ('Mondulkiri', 31),
+    ('Oddar Meanchey', 31),
+    ('Pailin', 31),
+    ('Phnom Penh', 31),
+    ('Preah Sihanouk', 31),
+    ('Preah Vihear', 31),
+    ('Pursat', 31),
+    ('Ratanakiri', 31),
+    ('Siem Reap', 31),
+    ('Stung Treng', 31),
+    ('Svay Rieng', 31),
+    ('Takéo', 31),
+    ('Tboung Khmum', 31);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Adamaoua', 32),
+    ('Centre', 32),
+    ('East', 32),
+    ('Far North', 32),
+    ('Littoral', 32),
+    ('North', 32),
+    ('Northwest', 32),
+    ('South', 32),
+    ('Southwest', 32),
+    ('West', 32);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Alberta', 33),
+    ('British Columbia', 33),
+    ('Manitoba', 33),
+    ('New Brunswick', 33),
+    ('Newfoundland and Labrador', 33),
+    ('Northwest Territories', 33),
+    ('Nova Scotia', 33),
+    ('Nunavut', 33),
+    ('Ontario', 33),
+    ('Prince Edward Island', 33),
+    ('Quebec', 33),
+    ('Saskatchewan', 33),
+    ('Yukon', 33);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Batha', 35),
+    ('Biltine', 35),
+    ('Borkou-Ennedi-Tibesti', 35),
+    ('Chari-Baguirmi', 35),
+    ('Guéra', 35),
+    ('Hadjer-Lamis', 35),
+    ('Kanem', 35),
+    ('Lac', 35),
+    ('Logone Occidental', 35),
+    ('Logone Oriental', 35),
+    ('Mandoul', 35),
+    ('Mayo-Kebbi Est', 35),
+    ('Mayo-Kebbi Ouest', 35),
+    ('Moyen-Chari', 35),
+    ('NDjamena', 35),
+    ('Ouaddaï', 35),
+    ('Salamat', 35),
+    ('Sila', 35),
+    ('Tandjilé', 35),
+    ('Tibesti', 35),
+    ('Wadi Fira', 35);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Beijing', 36),
+    ('Shanghai', 36),
+    ('Guangdong', 36),
+    ('Zhejiang', 36),
+    ('Jiangsu', 36),
+    ('Sichuan', 36),
+    ('Hunan', 36),
+    ('Fujian', 36),
+    ('Hubei', 36),
+    ('Henan', 36),
+    ('Yunnan', 36);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Amazonas', 37),
+    ('Antioquia', 37),
+    ('Arauca', 37),
+    ('Atlántico', 37),
+    ('Bogotá D.C.', 37),
+    ('Bolívar', 37),
+    ('Boyacá', 37),
+    ('Caldas', 37),
+    ('Caquetá', 37),
+    ('Casanare', 37),
+    ('Valle del Cauca', 37);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Grande Comore', 38),
+    ('Anjouan', 38),
+    ('Mohéli', 38);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Kinshasa', 39),
+    ('Kasai', 39),
+    ('Katanga', 39),
+    ('Équateur', 39),
+    ('Bas-Uele', 39),
+    ('Haut-Uele', 39),
+    ('Tanganyika', 39);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('San Jose', 40),
+    ('Alajuela', 40),
+    ('Cartago', 40),
+    ('Heredia', 40),
+    ('Guanacaste', 40),
+    ('Puntarenas', 40),
+    ('Limon', 40);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Zagreb', 41),
+    ('Split-Dalmatia', 41),
+    ('Istria', 41),
+    ('Primorje-Gorski Kotar', 41),
+    ('Sibenik-Knin', 41),
+    ('Dubrovnik-Neretva', 41),
+    ('Zadar', 41),
+    ('Varazdin', 41),
+    ('Sisak-Moslavina', 41);
+
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Artemisa', 42),
+    ('Camagüey', 42),
+    ('Ciego de Ávila', 42),
+    ('Cienfuegos', 42),
+    ('Granma', 42),
+    ('Guantánamo', 42),
+    ('Havana', 42),
+    ('Holguín', 42),
+    ('Isla de la Juventud', 42),
+    ('Las Tunas', 42),
+    ('Matanzas', 42),
+    ('Mayabeque', 42),
+    ('Pinar del Río', 42),
+    ('Sancti Spíritus', 42),
+    ('Santiago de Cuba', 42),
+    ('Villa Clara', 42);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Nicosia', 43),
+    ('Limassol', 43),
+    ('Larnaca', 43),
+    ('Paphos', 43),
+    ('Famagusta', 43);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Central Bohemia', 44),
+    ('South Bohemia', 44),
+    ('Plzeň', 44),
+    ('Karlovy Vary', 44),
+    ('Ústí nad Labem', 44),
+    ('Liberec', 44),
+    ('Hradec Králové', 44),
+    ('Pardubice', 44),
+    ('Vysočina', 44),
+    ('South Moravia', 44),
+    ('Olomouc', 44),
+    ('Zlín', 44),
+    ('Moravian-Silesian', 44);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Kinshasa', 45),
+    ('Kasai', 45),
+    ('Kasai-Central', 45),
+    ('Kasai-Oriental', 45),
+    ('Kwilu', 45),
+    ('Kwango', 45),
+    ('Lomami', 45),
+    ('Mai-Ndombe', 45),
+    ('Mongala', 45),
+    ('Nord-Ubangi', 45),
+    ('Sankuru', 45),
+    ('Sud-Ubangi', 45),
+    ('Tanganyika', 45),
+    ('Tshopo', 45),
+    ('Tshuapa', 45),
+    ('Upper-Uele', 45);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Capital Region of Denmark', 46),
+    ('Central Denmark Region', 46),
+    ('Region of Southern Denmark', 46),
+    ('North Denmark Region', 46);
+    
+    
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Djibouti', 47),
+    ('Ali Sabieh', 47),
+    ('Arta', 47),
+    ('Dikhil', 47),
+    ('Obock', 47),
+    ('Tadjourah', 47);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Saint Andrew', 48),
+    ('Saint David', 48),
+    ('Saint George', 48),
+    ('Saint John', 48),
+    ('Saint Joseph', 48),
+    ('Saint Luke', 48),
+    ('Saint Mark', 48),
+    ('Saint Patrick', 48);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Azua', 49),
+    ('Baoruco', 49),
+    ('Barahona', 49),
+    ('Dajabón', 49),
+    ('Distrito Nacional', 49),
+    ('Duarte', 49),
+    ('El Seibo', 49),
+    ('Elías Piña', 49),
+    ('Espaillat', 49),
+    ('Valverde', 49);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Azuay', 50),
+    ('Bolívar', 50),
+    ('Cañar', 50),
+    ('Carchi', 50),
+    ('Chimborazo', 50),
+    ('Cotopaxi', 50),
+    ('El Oro', 50),
+    ('Esmeraldas', 50),
+    ('Galápagos', 50),
+    ('Guayas', 50),
+    ('Pastaza', 50);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Cairo', 51),
+    ('Alexandria', 51),
+    ('Giza', 51),
+    ('Shubra El-Kheima', 51),
+    ('Port Said', 51),
+    ('Suez', 51),
+    ('Luxor', 51),
+    ('Asyut', 51),
+    ('Minya', 51),
+    ('Qena', 51),
+    ('Damietta', 51);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Ahuachapán', 52),
+    ('Cabañas', 52),
+    ('Chalatenango', 52),
+    ('Cuscatlán', 52),
+    ('La Libertad', 52),
+    ('La Paz', 52),
+    ('La Unión', 52),
+    ('Morazán', 52),
+    ('San Miguel', 52),
+    ('San Salvador', 52),
+    ('Sonsonate', 52);
+
+  INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Annobón', 53),
+    ('Bioko Norte', 53),
+    ('Bioko Sur', 53),
+    ('Centro Sur', 53),
+    ('Kié-Ntem', 53),
+    ('Litoral', 53),
+    ('Wele-Nzas', 53);
+    
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Anseba', 54),
+    ('Gash-Barka', 54),
+    ('Debub', 54),
+    ('Semenawi Keyih Bahri', 54),
+    ('Maekel', 54);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Harju', 55),
+    ('Tartu', 55),
+    ('Ida-Viru', 55),
+    ('Lääne-Viru', 55),
+    ('Pärnu', 55),
+    ('Viljandi', 55),
+    ('Rapla', 55),
+    ('Võru', 55),
+    ('Valga', 55),
+    ('Järva', 55),
+    ('Saare', 55);
+
+  
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Hhohho', 56),    -- Region Hhohho
+    ('Lubombo', 56),   -- Region Lubombo
+    ('Manzini', 56),   -- Region Manzini
+    ('Shiselweni', 56);-- Region Shiselweni
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Afar', 57),
+    ('Amhara', 57),
+    ('Benishangul-Gumuz', 57),
+    ('Dire Dawa', 57),
+    ('Gambela', 57),
+    ('Harari', 57),
+    ('Oromia', 57),
+    ('Sidama', 57),
+    ('Somali', 57),
+    ('Southern Nations, Nationalities, and Peoples', 57),
+    ('Tigray', 57),
+    ('Addis Ababa', 57);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Central Division', 58),
+    ('Eastern Division', 58),
+    ('Northern Division', 58),
+    ('Western Division', 58);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Åland', 59),
+    ('Central Finland', 59),
+    ('Central Ostrobothnia', 59),
+    ('Eastern Finland', 59),
+    ('Finland Proper', 59),
+    ('Kainuu', 59),
+    ('Kymenlaakso', 59),
+    ('Lapland', 59),
+    ('North Karelia', 59),
+    ('Northern Ostrobothnia', 59),
+    ('Northern Savonia', 59),
+    ('Ostrobothnia', 59),
+    ('Pirkanmaa', 59),
+    ('Satakunta', 59),
+    ('South Karelia', 59),
+    ('Southern Ostrobothnia', 59),
+    ('Southern Savonia', 59),
+    ('Tavastia Proper', 59),
+    ('Uusimaa', 59);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Île-de-France', 60),
+    ('Auvergne-Rhône-Alpes', 60),
+    ('Hauts-de-France', 60),
+    ('Provence-Alpes-Côte d''Azur', 60),
+    ('Pays de la Loire', 60),
+    ('Brittany', 60),
+    ('Normandy', 60),
+    ('Grand Est', 60),
+    ('Occitanie', 60),
+    ('Nouvelle-Aquitaine', 60),
+    ('Corsica', 60);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Estuaire', 61),
+    ('Haut-Ogooué', 61),
+    ('Moyen-Ogooué', 61),
+    ('Ngounié', 61),
+    ('Nyanga', 61),
+    ('Ogooué-Ivindo', 61),
+    ('Ogooué-Lolo', 61),
+    ('Ogooué-Maritime', 61),
+    ('Woleu-Ntem', 61);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Banjul', 62),
+    ('Lower River', 62),
+    ('Central River', 62),
+    ('Upper River', 62),
+    ('North Bank', 62),
+    ('West Coast', 62);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Abkhazia', 63),
+    ('Adjara', 63),
+    ('Guria', 63),
+    ('Imereti', 63),
+    ('Kakheti', 63),
+    ('Kvemo Kartli', 63),
+    ('Mtskheta-Mtianeti', 63),
+    ('Racha-Lechkhumi and Kvemo Svaneti', 63),
+    ('Samegrelo-Zemo Svaneti', 63),
+    ('Samtskhe-Javakheti', 63),
+    ('Shida Kartli', 63),
+    ('Tbilisi', 63);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Baden-Württemberg', 64),
+    ('Bavaria', 64),
+    ('Berlin', 64),
+    ('Brandenburg', 64),
+    ('Bremen', 64),
+    ('Hamburg', 64),
+    ('Hesse', 64),
+    ('Lower Saxony', 64),
+    ('Mecklenburg-Vorpommern', 64),
+    ('North Rhine-Westphalia', 64),
+    ('Thuringia', 64);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Ashanti', 65),
+    ('Brong-Ahafo', 65),
+    ('Central', 65),
+    ('Eastern', 65),
+    ('Greater Accra', 65),
+    ('Northern', 65),
+    ('Upper East', 65),
+    ('Upper West', 65),
+    ('Volta', 65),
+    ('Western', 65);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Attica', 66),
+    ('Central Greece', 66),
+    ('Central Macedonia', 66),
+    ('Crete', 66),
+    ('Eastern Macedonia and Thrace', 66),
+    ('Epirus', 66),
+    ('Ionian Islands', 66),
+    ('North Aegean', 66),
+    ('Peloponnese', 66),
+    ('South Aegean', 66),
+    ('Thessaly', 66),
+    ('Western Greece', 66),
+    ('Western Macedonia', 66);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Saint George', 67),
+    ('Saint David', 67),
+    ('Saint Andrew', 67),
+    ('Saint Patrick', 67),
+    ('Saint Mark', 67),
+    ('Saint John', 67),
+    ('Carriacou and Petite Martinique', 67);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Alta Verapaz', 68),
+    ('Baja Verapaz', 68),
+    ('Chimaltenango', 68),
+    ('Chiquimula', 68),
+    ('El Progreso', 68),
+    ('Escuintla', 68),
+    ('Guatemala', 68),
+    ('Huehuetenango', 68),
+    ('Izabal', 68),
+    ('Jalapa', 68),
+    ('Zacapa', 68);
+    
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Beyla', 69),
+    ('Boffa', 69),
+    ('Boke', 69),
+    ('Conakry', 69),
+    ('Coyah', 69),
+    ('Dabola', 69),
+    ('Dalaba', 69),
+    ('Dinguiraye', 69),
+    ('Dubreka', 69),
+    ('Faranah', 69),
+    ('Tougue', 69);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bafata', 70),
+    ('Biombo', 70),
+    ('Bissau', 70),
+    ('Bolama', 70),
+    ('Cacheu', 70),
+    ('Gabú', 70),
+    ('Oio', 70),
+    ('Quinara', 70),
+    ('Tombali', 70);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Barima-Waini', 71),
+    ('Cuyuni-Mazaruni', 71),
+    ('Demerara-Mahaica', 71),
+    ('East Berbice-Corentyne', 71),
+    ('Essequibo Islands-West Demerara', 71),
+    ('Mahaica-Berbice', 71),
+    ('Pomeroon-Supenaam', 71),
+    ('Potaro-Siparuni', 71),
+    ('Upper Demerara-Berbice', 71),
+    ('Upper Takutu-Upper Essequibo', 71);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Artibonite', 72),
+    ('Centre', 72),
+    ('Grand''Anse', 72),
+    ('Nippes', 72),
+    ('Nord', 72),
+    ('Nord-Est', 72),
+    ('Nord-Ouest', 72),
+    ('Ouest', 72),
+    ('Sud', 72),
+    ('Sud-Est', 72);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Atlántida', 73),
+    ('Choluteca', 73),
+    ('Colón', 73),
+    ('Comayagua', 73),
+    ('Copán', 73),
+    ('Cortés', 73),
+    ('El Paraíso', 73),
+    ('Francisco Morazán', 73),
+    ('Gracias a Dios', 73),
+    ('Intibucá', 73),
+    ('Yoro', 73);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES ('Vatican City', 74);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Budapest', 75),
+    ('Baranya', 75),
+    ('Bács-Kiskun', 75),
+    ('Békés', 75),
+    ('Borsod-Abaúj-Zemplén', 75),
+    ('Csongrád', 75),
+    ('Fejér', 75),
+    ('Győr-Moson-Sopron', 75),
+    ('Hajdú-Bihar', 75),
+    ('Heves', 75),
+    ('Zala', 75);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Capital Region', 76),
+    ('Southern Peninsula', 76),
+    ('Southern Region', 76),
+    ('Eastern Region', 76),
+    ('Northeastern Region', 76),
+    ('Western Region', 76),
+    ('Westfjords', 76);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Andhra Pradesh', 77),
+    ('Arunachal Pradesh', 77),
+    ('Assam', 77),
+    ('Bihar', 77),
+    ('Chhattisgarh', 77),
+    ('Goa', 77),
+    ('Gujarat', 77),
+    ('Haryana', 77),
+    ('Himachal Pradesh', 77),
+    ('Jharkhand', 77),
+    ('Karnataka', 77),
+    ('Kerala', 77),
+    ('Madhya Pradesh', 77),
+    ('Maharashtra', 77),
+    ('Manipur', 77),
+    ('Meghalaya', 77),
+    ('Mizoram', 77),
+    ('Nagaland', 77),
+    ('Odisha', 77),
+    ('Punjab', 77),
+    ('Rajasthan', 77),
+    ('Sikkim', 77),
+    ('Tamil Nadu', 77),
+    ('Telangana', 77),
+    ('Tripura', 77),
+    ('Uttar Pradesh', 77),
+    ('Uttarakhand', 77),
+    ('West Bengal', 77);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Aceh', 78),
+    ('Bali', 78),
+    ('Banten', 78),
+    ('Bengkulu', 78),
+    ('Central Java', 78),
+    ('Central Kalimantan', 78),
+    ('Central Sulawesi', 78),
+    ('East Java', 78),
+    ('East Kalimantan', 78),
+    ('East Nusa Tenggara', 78),
+    ('West Kalimantan', 78);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Tehran', 79),
+    ('Isfahan', 79),
+    ('Fars', 79),
+    ('Khuzestan', 79),
+    ('Khorasan Razavi', 79),
+    ('Mazandaran', 79),
+    ('Gilan', 79),
+    ('Lorestan', 79),
+    ('Kerman', 79),
+    ('Hormozgan', 79),
+    ('Golestan', 79);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Baghdad', 80),
+    ('Basra', 80),
+    ('Nineveh', 80),
+    ('Erbil', 80),
+    ('Sulaymaniyah', 80),
+    ('Diyala', 80),
+    ('Kirkuk', 80),
+    ('Dhi Qar', 80),
+    ('Babil', 80),
+    ('Wasit', 80);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Leinster', 81),
+    ('Munster', 81),
+    ('Connacht', 81),
+    ('Ulster', 81);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Jerusalem', 82),
+    ('Central District', 82),
+    ('Tel Aviv District', 82),
+    ('Haifa District', 82),
+    ('Northern District', 82),
+    ('Southern District', 82);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Abruzzo', 83),
+    ('Apulia', 83),
+    ('Basilicata', 83),
+    ('Calabria', 83),
+    ('Campania', 83),
+    ('Emilia-Romagna', 83),
+    ('Friuli-Venezia Giulia', 83),
+    ('Lazio', 83),
+    ('Liguria', 83),
+    ('Lombardy', 83),
+    ('Umbria', 83);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Kingston', 84),
+    ('Saint Andrew', 84),
+    ('Saint Catherine', 84),
+    ('Clarendon', 84),
+    ('Manchester', 84),
+    ('Hanover', 84),
+    ('Saint Elizabeth', 84),
+    ('Westmoreland', 84),
+    ('Saint James', 84),
+    ('Trelawny', 84),
+    ('Portland', 84);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Hokkaido', 85),
+    ('Aomori', 85),
+    ('Iwate', 85),
+    ('Miyagi', 85),
+    ('Akita', 85),
+    ('Yamagata', 85),
+    ('Fukushima', 85),
+    ('Ibaraki', 85),
+    ('Tochigi', 85),
+    ('Gunma', 85),
+    ('Saitama', 85),
+    ('Chiba', 85),
+    ('Tokyo', 85),
+    ('Kanagawa', 85),
+    ('Niigata', 85),
+    ('Toyama', 85),
+    ('Ishikawa', 85),
+    ('Fukui', 85),
+    ('Yamanashi', 85),
+    ('Nagano', 85),
+    ('Gifu', 85),
+    ('Shizuoka', 85),
+    ('Aichi', 85),
+    ('Mie', 85),
+    ('Shiga', 85),
+    ('Kyoto', 85),
+    ('Osaka', 85),
+    ('Hyogo', 85),
+    ('Nara', 85),
+    ('Wakayama', 85),
+    ('Tottori', 85),
+    ('Shimane', 85),
+    ('Okayama', 85),
+    ('Hiroshima', 85),
+    ('Yamaguchi', 85),
+    ('Tokushima', 85),
+    ('Kagawa', 85),
+    ('Ehime', 85),
+    ('Kochi', 85),
+    ('Fukuoka', 85),
+    ('Saga', 85),
+    ('Nagasaki', 85),
+    ('Kumamoto', 85),
+    ('Oita', 85),
+    ('Miyazaki', 85),
+    ('Kagoshima', 85),
+    ('Okinawa', 85);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Amman', 86),
+    ('Ajloun', 86),
+    ('Irbid', 86),
+    ('Jerash', 86),
+    ('Mafraq', 86),
+    ('Madaba', 86),
+    ('Karak', 86),
+    ('Tafilah', 86),
+    ('Maan', 86),
+    ('Aqaba', 86);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Almaty', 87),
+    ('Nur-Sultan', 87),
+    ('Shymkent', 87),
+    ('East Kazakhstan', 87),
+    ('Pavlodar', 87),
+    ('Karaganda', 87),
+    ('Aktobe', 87),
+    ('Akmola', 87),
+    ('Atyrau', 87),
+    ('Mangystau', 87);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Nairobi', 88),
+    ('Mombasa', 88),
+    ('Kisumu', 88),
+    ('Nakuru', 88),
+    ('Eldoret', 88),
+    ('Thika', 88),
+    ('Malindi', 88),
+    ('Kitale', 88),
+    ('Garissa', 88),
+    ('Kakamega', 88),
+    ('Lamu', 88);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Gilbert Islands', 89),
+    ('Line Islands', 89),
+    ('Phoenix Islands', 89);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Al Ahmadi', 90),
+    ('Hawalli', 90),
+    ('Farwaniya', 90),
+    ('Capital', 90),
+    ('Mubarak Al-Kabeer', 90);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bishkek', 91),
+    ('Chui', 91),
+    ('Osh', 91),
+    ('Jalal-Abad', 91),
+    ('Issyk-Kul', 91),
+    ('Naryn', 91),
+    ('Talas', 91),
+    ('Batken', 91),
+    ('Osh City', 91);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Attapeu', 92),
+    ('Bokeo', 92),
+    ('Bolikhamsai', 92),
+    ('Champasak', 92),
+    ('Houaphanh', 92),
+    ('Khammouane', 92),
+    ('Luang Namtha', 92),
+    ('Luang Prabang', 92),
+    ('Oudomxay', 92),
+    ('Xiangkhouang', 92);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Riga', 93),
+    ('Vidzeme', 93),
+    ('Kurzeme', 93),
+    ('Zemgale', 93),
+    ('Latgale', 93);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Beirut', 94),
+    ('Mount Lebanon', 94),
+    ('North Governorate', 94),
+    ('South Governorate', 94),
+    ('Bekaa Governorate', 94),
+    ('Nabatieh Governorate', 94);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Berea', 95),
+    ('Butha-Buthe', 95),
+    ('Leribe', 95),
+    ('Mafeteng', 95),
+    ('Maseru', 95),
+    ('Mohale''s Hoek', 95),
+    ('Mokhotlong', 95),
+    ('Qacha''s Nek', 95),
+    ('Quthing', 95),
+    ('Thaba-Tseka', 95);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bomi', 96),
+    ('Bong', 96),
+    ('Gbarpolu', 96),
+    ('Grand Bassa', 96),
+    ('Grand Cape Mount', 96),
+    ('Grand Gedeh', 96),
+    ('Grand Kru', 96),
+    ('Lofa', 96),
+    ('Margibi', 96),
+    ('Maryland', 96),
+    ('Montserrado', 96),
+    ('Nimba', 96),
+    ('River Cess', 96),
+    ('River Gee', 96),
+    ('Sinoe', 96);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Tripoli', 97),
+    ('Benghazi', 97),
+    ('Misrata', 97),
+    ('Tarhuna', 97),
+    ('Zawiya', 97),
+    ('Sirte', 97),
+    ('Sabha', 97),
+    ('Az Zawiyah', 97),
+    ('Kufra', 97);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Balzers', 98),
+    ('Eschen', 98),
+    ('Gamprin', 98),
+    ('Mauren', 98),
+    ('Planken', 98),
+    ('Ruggell', 98),
+    ('Schaan', 98),
+    ('Schellenberg', 98),
+    ('Triesen', 98),
+    ('Triesenberg', 98),
+    ('Vaduz', 98);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Vilnius', 99),
+    ('Kaunas', 99),
+    ('Klaipėda', 99),
+    ('Šiauliai', 99),
+    ('Panevėžys', 99),
+    ('Alytus', 99),
+    ('Marijampolė', 99),
+    ('Mažeikiai', 99),
+    ('Jonava', 99),
+    ('Utena', 99),
+    ('Tauragė', 99);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Luxembourg', 100),
+    ('Diekirch', 100),
+    ('Grevenmacher', 100);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Antananarivo', 101),
+    ('Toamasina', 101),
+    ('Antsirabe', 101),
+    ('Fianarantsoa', 101),
+    ('Mahajanga', 101),
+    ('Toliara', 101),
+    ('Antsiranana', 101),
+    ('Ambovombe', 101),
+    ('Andapa', 101);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Central Region', 102),
+    ('Northern Region', 102),
+    ('Southern Region', 102);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Johor', 103),
+    ('Kedah', 103),
+    ('Kelantan', 103),
+    ('Malacca', 103),
+    ('Negeri Sembilan', 103),
+    ('Pahang', 103),
+    ('Penang', 103),
+    ('Perak', 103),
+    ('Perlis', 103),
+    ('Sabah', 103),
+    ('Sarawak', 103),
+    ('Selangor', 103),
+    ('Terengganu', 103);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Haa Alif Atoll', 104),
+    ('Haa Dhaalu Atoll', 104),
+    ('Shaviyani Atoll', 104),
+    ('Noonu Atoll', 104),
+    ('Raa Atoll', 104),
+    ('Baa Atoll', 104),
+    ('Lhaviyani Atoll', 104),
+    ('Kaafu Atoll', 104),
+    ('Alifu Alifu Atoll', 104),
+    ('Alifu Dhaalu Atoll', 104),
+    ('Vaavu Atoll', 104),
+    ('Meemu Atoll', 104),
+    ('Faafu Atoll', 104),
+    ('Dhaalu Atoll', 104),
+    ('Thaa Atoll', 104),
+    ('Laamu Atoll', 104),
+    ('Gaafu Alifu Atoll', 104),
+    ('Gaafu Dhaalu Atoll', 104),
+    ('Gnaviyani Atoll', 104),
+    ('Addu City', 104);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bamako', 105),
+    ('Gao', 105),
+    ('Kayes', 105),
+    ('Kidal', 105),
+    ('Koulikoro', 105),
+    ('Mopti', 105),
+    ('Segou', 105),
+    ('Sikasso', 105),
+    ('Tombouctou', 105);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Ailinlaplap', 107),
+    ('Ailuk', 107),
+    ('Arno', 107),
+    ('Aur', 107),
+    ('Ebon', 107),
+    ('Enewetak', 107),
+    ('Jabat', 107),
+    ('Jaluit', 107),
+    ('Kili', 107),
+    ('Kwajalein', 107),
+    ('Mili', 107);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Adrar', 109),
+    ('Assaba', 109),
+    ('Brakna', 109),
+    ('Dakhlet Nouadhibou', 109),
+    ('Gorgol', 109),
+    ('Guidimaka', 109),
+    ('Hodh Ech Chargui', 109),
+    ('Hodh El Gharbi', 109),
+    ('Inchiri', 109),
+    ('Nouakchott', 109),
+    ('Tiris Zemmour', 109);
+
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Aguascalientes', 110),
+    ('Baja California', 110),
+    ('Baja California Sur', 110),
+    ('Campeche', 110),
+    ('Chiapas', 110),
+    ('Chihuahua', 110),
+    ('Coahuila', 110),
+    ('Colima', 110),
+    ('Durango', 110),
+    ('Guanajuato', 110),
+    ('Guerrero', 110),
+    ('Hidalgo', 110),
+    ('Jalisco', 110),
+    ('Mexico City', 110),
+    ('Mexico State', 110),
+    ('Michoacán', 110),
+    ('Morelos', 110),
+    ('Nayarit', 110),
+    ('Nuevo León', 110),
+    ('Oaxaca', 110),
+    ('Puebla', 110),
+    ('Querétaro', 110),
+    ('Quintana Roo', 110),
+    ('San Luis Potosí', 110),
+    ('Sinaloa', 110),
+    ('Sonora', 110),
+    ('Tabasco', 110),
+    ('Tamaulipas', 110),
+    ('Tlaxcala', 110),
+    ('Veracruz', 110),
+    ('Yucatán', 110),
+    ('Zacatecas', 110);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Chuuk', 111),
+    ('Kosrae', 111),
+    ('Pohnpei', 111),
+    ('Yap', 111);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Chisinau', 112),
+    ('Balti', 112),
+    ('Tiraspol', 112),
+    ('Bender', 112),
+    ('Rîbnița', 112),
+    ('Cahul', 112),
+    ('Ungheni', 112),
+    ('Soroca', 112),
+    ('Orhei', 112),
+    ('Dubasari', 112);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Monaco-Ville', 113),
+    ('La Condamine', 113),
+    ('Monte Carlo', 113),
+    ('Fontvieille', 113);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Ulaanbaatar', 114),
+    ('Darkhan-Uul', 114),
+    ('Khovsgol', 114),
+    ('Orkhon', 114),
+    ('Selenge', 114),
+    ('Tov', 114),
+    ('Zavkhan', 114);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Andrijevica', 115),
+    ('Bar', 115),
+    ('Berane', 115),
+    ('Bijelo Polje', 115),
+    ('Budva', 115),
+    ('Cetinje', 115),
+    ('Danilovgrad', 115),
+    ('Gusinje', 115),
+    ('Kolašin', 115),
+    ('Kotor', 115),
+    ('Žabljak', 115);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Tanger-Tetouan-Al Hoceima', 116),
+    ('Oriental', 116),
+    ('Fès-Meknès', 116),
+    ('Rabat-Salé-Kénitra', 116),
+    ('Béni Mellal-Khénifra', 116),
+    ('Casablanca-Settat', 116),
+    ('Marrakech-Safi', 116),
+    ('Drâa-Tafilalet', 116),
+    ('Souss-Massa', 116),
+    ('Guelmim-Oued Noun', 116),
+    ('Laâyoune-Sakia El Hamra', 116),
+    ('Dakhla-Oued Ed-Dahab', 116);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Cabo Delgado', 117),
+    ('Gaza', 117),
+    ('Inhambane', 117),
+    ('Manica', 117),
+    ('Maputo', 117),
+    ('Nampula', 117),
+    ('Niassa', 117),
+    ('Sofala', 117),
+    ('Tete', 117),
+    ('Zambezia', 117);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Ayeyarwady', 118),
+    ('Bago', 118),
+    ('Chin', 118),
+    ('Kachin', 118),
+    ('Kayah', 118),
+    ('Kayin', 118),
+    ('Magway', 118),
+    ('Mandalay', 118),
+    ('Mon', 118),
+    ('Rakhine', 118),
+    ('Shan', 118);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Erongo', 119),
+    ('Hardap', 119),
+    ('Karas', 119),
+    ('Kavango East', 119),
+    ('Kavango West', 119),
+    ('Khomas', 119),
+    ('Kunene', 119),
+    ('Ohangwena', 119),
+    ('Omaheke', 119),
+    ('Omusati', 119),
+    ('Oshana', 119),
+    ('Oshikoto', 119),
+    ('Otjozondjupa', 119),
+    ('Zambezi', 119);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Province 1', 121),
+    ('Province 2', 121),
+    ('Bagmati Province', 121),
+    ('Gandaki Province', 121),
+    ('Lumbini Province', 121),
+    ('Karnali Province', 121),
+    ('Sudurpaschim Province', 121);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Drenthe', 122),
+    ('Flevoland', 122),
+    ('Friesland', 122),
+    ('Gelderland', 122),
+    ('Groningen', 122),
+    ('Limburg', 122),
+    ('North Brabant', 122),
+    ('North Holland', 122),
+    ('Overijssel', 122),
+    ('South Holland', 122),
+    ('Utrecht', 122),
+    ('Zeeland', 122);
+    
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('North Island', 123),
+    ('South Island', 123),
+    ('Auckland', 123),
+    ('Wellington', 123),
+    ('Canterbury', 123),
+    ('Otago', 123),
+    ('Waikato', 123),
+    ('Bay of Plenty', 123),
+    ('Hawke''s Bay', 123),
+    ('Nelson', 123),
+    ('Taranaki', 123);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Boaco', 124),
+    ('Carazo', 124),
+    ('Chinandega', 124),
+    ('Chontales', 124),
+    ('Estelí', 124),
+    ('Granada', 124),
+    ('Jinotega', 124),
+    ('León', 124),
+    ('Madriz', 124),
+    ('Managua', 124),
+    ('Rivas', 124);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Agadez', 125),
+    ('Diffa', 125),
+    ('Dosso', 125),
+    ('Maradi', 125),
+    ('Tahoua', 125),
+    ('Tillabéri', 125),
+    ('Zinder', 125);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Abia', 126),
+    ('Adamawa', 126),
+    ('Akwa Ibom', 126),
+    ('Anambra', 126),
+    ('Bauchi', 126),
+    ('Bayelsa', 126),
+    ('Benue', 126),
+    ('Borno', 126),
+    ('Cross River', 126),
+    ('Delta', 126),
+    ('Ebonyi', 126),
+    ('Edo', 126),
+    ('Ekiti', 126),
+    ('Enugu', 126),
+    ('Gombe', 126),
+    ('Imo', 126),
+    ('Jigawa', 126),
+    ('Kaduna', 126),
+    ('Kano', 126),
+    ('Katsina', 126),
+    ('Kebbi', 126),
+    ('Kogi', 126),
+    ('Kwara', 126),
+    ('Lagos', 126),
+    ('Nassarawa', 126),
+    ('Niger', 126),
+    ('Ogun', 126),
+    ('Ondo', 126),
+    ('Osun', 126),
+    ('Oyo', 126),
+    ('Plateau', 126),
+    ('Rivers', 126),
+    ('Sokoto', 126),
+    ('Taraba', 126),
+    ('Yobe', 126),
+    ('Zamfara', 126);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Skopje', 128),
+    ('Bitola', 128),
+    ('Kumanovo', 128),
+    ('Prilep', 128),
+    ('Tetovo', 128),
+    ('Ohrid', 128),
+    ('Strumica', 128);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Oslo', 129),
+    ('Akershus', 129),
+    ('Hordaland', 129),
+    ('Rogaland', 129),
+    ('Trøndelag', 129),
+    ('Nordland', 129),
+    ('Vestfold', 129),
+    ('Møre og Romsdal', 129),
+    ('Troms', 129),
+    ('Finnmark', 129),
+    ('Viken', 129);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Ad Dakhiliyah', 130),
+    ('Ad Dhahirah', 130),
+    ('Al Batinah North', 130),
+    ('Al Batinah South', 130),
+    ('Al Buraymi', 130),
+    ('Al Wusta', 130),
+    ('Ash Sharqiyah North', 130),
+    ('Ash Sharqiyah South', 130),
+    ('Dhofar', 130),
+    ('Musandam', 130),
+    ('Muscat', 130),
+    ('Al Batinah', 130);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Punjab', 131),
+    ('Sindh', 131),
+    ('Khyber Pakhtunkhwa', 131),
+    ('Balochistan', 131),
+    ('Gilgit-Baltistan', 131),
+    ('Azad Kashmir', 131);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Aimeliik', 132),
+    ('Airai', 132),
+    ('Angaur', 132),
+    ('Hatohobei', 132),
+    ('Koror', 132),
+    ('Melekeok', 132),
+    ('Ngaraard', 132),
+    ('Ngarchelong', 132),
+    ('Ngardmau', 132),
+    ('Ngatpang', 132),
+    ('Peleliu', 132);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('West Bank', 133),
+    ('Gaza Strip', 133),
+    ('East Jerusalem', 133),
+    ('Jericho', 133),
+    ('Hebron', 133),
+    ('Ramallah', 133);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bocas del Toro', 134),
+    ('Chiriquí', 134),
+    ('Coclé', 134),
+    ('Colón', 134),
+    ('Darién', 134),
+    ('Herrera', 134),
+    ('Los Santos', 134),
+    ('Panamá', 134),
+    ('Veraguas', 134);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('National Capital District', 135),
+    ('Central', 135),
+    ('Gulf', 135),
+    ('Milne Bay', 135),
+    ('Northern', 135),
+    ('Western', 135),
+    ('West New Britain', 135),
+    ('Madang', 135),
+    ('Eastern Highlands', 135),
+    ('Enga', 135),
+    ('East New Britain', 135);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Asunción', 136),
+    ('Concepción', 136),
+    ('San Pedro', 136),
+    ('Cordillera', 136),
+    ('Guairá', 136),
+    ('Caaguazú', 136),
+    ('Caazapá', 136),
+    ('Itapúa', 136),
+    ('Misiones', 136),
+    ('Paraguarí', 136),
+    ('Canindeyú', 136);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Amazonas', 137),
+    ('Ancash', 137),
+    ('Apurimac', 137),
+    ('Arequipa', 137),
+    ('Ayacucho', 137),
+    ('Cajamarca', 137),
+    ('Callao', 137),
+    ('Cusco', 137),
+    ('Huancavelica', 137),
+    ('Huanuco', 137),
+    ('Tumbes', 137);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Metro Manila', 138),
+    ('Calabarzon', 138),
+    ('Central Luzon', 138),
+    ('Central Visayas', 138),
+    ('Davao', 138),
+    ('Northern Mindanao', 138),
+    ('Western Visayas', 138),
+    ('Zamboanga Peninsula', 138),
+    ('Ilocos', 138),
+    ('Caraga', 138);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Greater Poland Voivodeship', 139),
+    ('Kuyavian-Pomeranian Voivodeship', 139),
+    ('Lesser Poland Voivodeship', 139),
+    ('Lodz Voivodeship', 139),
+    ('Lower Silesian Voivodeship', 139),
+    ('Lublin Voivodeship', 139),
+    ('Lubusz Voivodeship', 139),
+    ('Masovian Voivodeship', 139),
+    ('Opole Voivodeship', 139),
+    ('Podkarpackie Voivodeship', 139),
+    ('Podlaskie Voivodeship', 139),
+    ('Pomeranian Voivodeship', 139),
+    ('Silesian Voivodeship', 139),
+    ('Subcarpathian Voivodeship', 139),
+    ('Swietokrzyskie Voivodeship', 139),
+    ('Warmian-Masurian Voivodeship', 139),
+    ('West Pomeranian Voivodeship', 139);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Aveiro', 140),
+    ('Azores', 140),
+    ('Beja', 140),
+    ('Braga', 140),
+    ('Bragança', 140),
+    ('Castelo Branco', 140),
+    ('Coimbra', 140),
+    ('Évora', 140),
+    ('Faro', 140),
+    ('Guarda', 140),
+    ('Vila Real', 140);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Alba', 142),
+    ('Arad', 142),
+    ('Arges', 142),
+    ('Bacau', 142),
+    ('Bihor', 142),
+    ('Bistrita-Nasaud', 142),
+    ('Botosani', 142),
+    ('Braila', 142),
+    ('Brasov', 142),
+    ('Bucuresti', 142),
+    ('Vrancea', 142);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Moscow', 143),
+    ('Saint Petersburg', 143),
+    ('Novosibirsk', 143),
+    ('Yekaterinburg', 143),
+    ('Nizhny Novgorod', 143),
+    ('Kazan', 143),
+    ('Chelyabinsk', 143),
+    ('Omsk', 143),
+    ('Samara', 143),
+    ('Rostov-on-Don', 143),
+    ('Vladivostok', 143);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Kigali City', 144),
+    ('Eastern Province', 144),
+    ('Northern Province', 144),
+    ('Western Province', 144),
+    ('Southern Province', 144);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Saint George Basseterre', 145),
+    ('Saint Thomas Middle Island', 145),
+    ('Saint Anne Sandy Point', 145),
+    ('Saint John Capisterre', 145),
+    ('Saint Mary Cayon', 145),
+    ('Saint Paul Capisterre', 145),
+    ('Saint Peter Basseterre', 145);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Anse la Raye', 146),
+    ('Castries', 146),
+    ('Choiseul', 146),
+    ('Dennery', 146),
+    ('Gros Islet', 146),
+    ('Laborie', 146),
+    ('Micoud', 146),
+    ('Soufrière', 146),
+    ('Vieux Fort', 146);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Charlotte', 147),
+    ('Grenadines', 147),
+    ('Saint Andrew', 147),
+    ('Saint David', 147),
+    ('Saint George', 147);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('A\'ana', 148),
+    ('Aiga-i-le-Tai', 148),
+    ('Atua', 148),
+    ('Fa\'asaleleaga', 148),
+    ('Gaga\'emauga', 148),
+    ('Gaga\'ifomauga', 148),
+    ('Palauli', 148),
+    ('Satupa\'itea', 148),
+    ('Tuamasaga', 148),
+    ('Va\'a-o-Fonoti', 148),
+    ('Vaisigano', 148);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Sao Tome', 150),
+    ('Principe', 150),
+    ('Lembá', 150),
+    ('Cantagalo', 150),
+    ('Caué', 150),
+    ('Lobata', 150),
+    ('Mé-Zóchi', 150);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Riyadh', 151),
+    ('Makkah', 151),
+    ('Madinah', 151),
+    ('Eastern Province', 151),
+    ('Asir', 151),
+    ('Tabuk', 151),
+    ('Hail', 151),
+    ('Najran', 151),
+    ('Jazan', 151),
+    ('Qassim', 151),
+    ('Al Baha', 151),
+    ('Northern Borders', 151),
+    ('Jawf', 151);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Dakar', 152),
+    ('Diourbel', 152),
+    ('Fatick', 152),
+    ('Kaolack', 152),
+    ('Kaffrine', 152),
+    ('Kédougou', 152),
+    ('Kolda', 152),
+    ('Louga', 152),
+    ('Matam', 152),
+    ('Saint-Louis', 152),
+    ('Sédhiou', 152),
+    ('Tambacounda', 152),
+    ('Thiès', 152),
+    ('Ziguinchor', 152);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Belgrade', 153),
+    ('Vojvodina', 153),
+    ('Central Serbia', 153),
+    ('South Bačka', 153),
+    ('South Banat', 153),
+    ('Šumadija', 153),
+    ('Pomoravlje', 153),
+    ('Zlatibor', 153),
+    ('Moravica', 153),
+    ('Raška', 153);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Anse aux Pins', 154),
+    ('Anse Boileau', 154),
+    ('Anse Etoile', 154),
+    ('Anse Royale', 154),
+    ('Baie Lazare', 154),
+    ('Baie Sainte Anne', 154),
+    ('Beau Vallon', 154),
+    ('Bel Air', 154),
+    ('Bel Ombre', 154),
+    ('Takamaka', 154);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Western Area', 155),
+    ('Northern Province', 155),
+    ('Southern Province', 155),
+    ('Eastern Province', 155),
+    ('North Western Province', 155),
+    ('Koinadugu District', 155),
+    ('Kailahun District', 155),
+    ('Kono District', 155),
+    ('Bo District', 155),
+    ('Tonkolili District', 155),
+    ('Bonthe District', 155);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bratislava', 157),
+    ('Kosice', 157),
+    ('Prešov', 157),
+    ('Nitra', 157),
+    ('Trencin', 157),
+    ('Trnava', 157),
+    ('Zilina', 157),
+    ('Banská Bystrica', 157);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Ajdovščina', 158),
+    ('Beltinci', 158),
+    ('Bled', 158),
+    ('Bohinj', 158),
+    ('Borovnica', 158),
+    ('Bovec', 158),
+    ('Brda', 158),
+    ('Brezovica', 158),
+    ('Brežice', 158),
+    ('Cankova', 158),
+    ('Vipava', 158);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Guadalcanal', 159),
+    ('Malaita', 159),
+    ('Western', 159),
+    ('Central', 159),
+    ('Makira-Ulawa', 159),
+    ('Temotu', 159),
+    ('Choiseul', 159),
+    ('Isabel', 159),
+    ('Renbel', 159),
+    ('Honiara (Capital Territory)', 159);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Awdal', 160),
+    ('Bakool', 160),
+    ('Banaadir', 160),
+    ('Bari', 160),
+    ('Bay', 160),
+    ('Galguduud', 160),
+    ('Gedo', 160),
+    ('Hiran', 160),
+    ('Lower Juba', 160),
+    ('Lower Shebelle', 160),
+    ('Nugaal', 160);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Eastern Cape', 161),
+    ('Free State', 161),
+    ('Gauteng', 161),
+    ('KwaZulu-Natal', 161),
+    ('Limpopo', 161),
+    ('Mpumalanga', 161),
+    ('North West', 161),
+    ('Northern Cape', 161),
+    ('Western Cape', 161);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Seoul', 162),
+    ('Busan', 162),
+    ('Daegu', 162),
+    ('Incheon', 162),
+    ('Gwangju', 162),
+    ('Daejeon', 162),
+    ('Ulsan', 162),
+    ('Sejong', 162),
+    ('Gyeonggi', 162),
+    ('Gangwon', 162),
+    ('Chungbuk', 162),
+    ('Chungnam', 162),
+    ('Jeonbuk', 162),
+    ('Jeonnam', 162),
+    ('Gyeongbuk', 162),
+    ('Gyeongnam', 162),
+    ('Jeju', 162);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Central Equatoria', 163),
+    ('Eastern Equatoria', 163),
+    ('Jonglei', 163),
+    ('Lakes', 163),
+    ('Northern Bahr el Ghazal', 163),
+    ('Unity', 163),
+    ('Upper Nile', 163),
+    ('Warrap', 163),
+    ('Western Bahr el Ghazal', 163),
+    ('Western Equatoria', 163);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Andalusia', 164),
+    ('Aragon', 164),
+    ('Asturias', 164),
+    ('Balearic Islands', 164),
+    ('Basque Country', 164),
+    ('Canary Islands', 164),
+    ('Cantabria', 164),
+    ('Castile and León', 164),
+    ('Castile-La Mancha', 164),
+    ('Catalonia', 164),
+    ('Valencian Community', 164);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Western Province', 165),
+    ('Central Province', 165),
+    ('Southern Province', 165),
+    ('Northern Province', 165),
+    ('Eastern Province', 165),
+    ('North Western Province', 165),
+    ('North Central Province', 165),
+    ('Uva Province', 165),
+    ('Sabaragamuwa Province', 165);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Khartoum', 166),
+    ('Gezira', 166),
+    ('Red Sea', 166),
+    ('White Nile', 166),
+    ('Blue Nile', 166),
+    ('North Kordofan', 166),
+    ('Sennar', 166),
+    ('Darfur', 166),
+    ('Kassala', 166),
+    ('River Nile', 166);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Paramaribo', 167),
+    ('Brokopondo', 167),
+    ('Commewijne', 167),
+    ('Coronie', 167),
+    ('Marowijne', 167),
+    ('Nickerie', 167),
+    ('Para', 167),
+    ('Saramacca', 167),
+    ('Sipaliwini', 167),
+    ('Wanica', 167);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Aargau', 168),
+    ('Appenzell Ausserrhoden', 168),
+    ('Appenzell Innerrhoden', 168),
+    ('Basel-Landschaft', 168),
+    ('Basel-Stadt', 168),
+    ('Bern', 168),
+    ('Fribourg', 168),
+    ('Geneva', 168),
+    ('Glarus', 168),
+    ('Graubünden', 168),
+    ('Jura', 168),
+    ('Lucerne', 168),
+    ('Neuchâtel', 168),
+    ('Nidwalden', 168),
+    ('Obwalden', 168),
+    ('Schaffhausen', 168),
+    ('Schwyz', 168),
+    ('Solothurn', 168),
+    ('St. Gallen', 168),
+    ('Thurgau', 168),
+    ('Uri', 168),
+    ('Valais', 168),
+    ('Vaud', 168),
+    ('Zug', 168),
+    ('Zurich', 168);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Stockholm County', 169),
+    ('Uppsala County', 169),
+    ('Södermanland County', 169),
+    ('Östergötland County', 169),
+    ('Jönköping County', 169),
+    ('Kronoberg County', 169),
+    ('Kalmar County', 169),
+    ('Gotland County', 169),
+    ('Blekinge County', 169),
+    ('Skåne County', 169),
+    ('Halland County', 169),
+    ('Västra Götaland County', 169),
+    ('Värmland County', 169),
+    ('Örebro County', 169),
+    ('Västmanland County', 169),
+    ('Dalarna County', 169),
+    ('Gävleborg County', 169),
+    ('Västernorrland County', 169),
+    ('Jämtland County', 169),
+    ('Västerbotten County', 169),
+    ('Norrbotten County', 169);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Aleppo', 170),
+    ('Damascus', 170),
+    ('Homs', 170),
+    ('Hama', 170),
+    ('Latakia', 170),
+    ('Idlib', 170),
+    ('Raqqa', 170),
+    ('Deir ez-Zor', 170),
+    ('Daraa', 170),
+    ('Tartus', 170),
+    ('Quneitra', 170);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Sughd', 171),
+    ('Khatlon', 171),
+    ('Dushanbe', 171),
+    ('Khatlon', 171),
+    ('GBAO', 171),
+    ('Region of Republican Subordination', 171);
+    
+    
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Arusha', 172),
+    ('Dar es Salaam', 172),
+    ('Dodoma', 172),
+    ('Geita', 172),
+    ('Iringa', 172),
+    ('Kagera', 172),
+    ('Katavi', 172),
+    ('Kigoma', 172),
+    ('Kilimanjaro', 172),
+    ('Lindi', 172),
+    ('Manyara', 172),
+    ('Mara', 172),
+    ('Mbeya', 172),
+    ('Morogoro', 172),
+    ('Mtwara', 172),
+    ('Mwanza', 172),
+    ('Njombe', 172),
+    ('Pemba North', 172),
+    ('Pemba South', 172),
+    ('Pwani', 172),
+    ('Rukwa', 172),
+    ('Ruvuma', 172),
+    ('Shinyanga', 172),
+    ('Simiyu', 172),
+    ('Singida', 172),
+    ('Songwe', 172),
+    ('Tabora', 172),
+    ('Tanga', 172),
+    ('Zanzibar Central/South', 172),
+    ('Zanzibar North', 172),
+    ('Zanzibar Urban/West', 172);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Bangkok', 173),
+    ('Chiang Mai', 173),
+    ('Phuket', 173),
+    ('Krabi', 173),
+    ('Samut Prakan', 173),
+    ('Chonburi', 173),
+    ('Surat Thani', 173),
+    ('Ayutthaya', 173),
+    ('Khon Kaen', 173),
+    ('Nakhon Si Thammarat', 173);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Dili', 174),
+    ('Aileu', 174),
+    ('Ainaro', 174),
+    ('Baucau', 174),
+    ('Bobonaro', 174),
+    ('Cova Lima', 174),
+    ('Ermera', 174),
+    ('Lautem', 174),
+    ('Liquica', 174),
+    ('Manatuto', 174),
+    ('Viqueque', 174);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Kara Region', 175),
+    ('Savanes Region', 175),
+    ('Centrale Region', 175),
+    ('Plateaux Region', 175),
+    ('Maritime Region', 175),
+    ('Lomé Commune', 175),
+    ('Lomé Golfe Commune', 175),
+    ('Lomé Nyékonakpoé Commune', 175),
+    ('Lomé Totsi Commune', 175);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Tongatapu', 176),
+    ('Vavaʻu', 176),
+    ('Haʻapai', 176),
+    ('ʻEua', 176),
+    ('Niuas', 176);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Arima', 177),
+    ('Chaguanas', 177),
+    ('Couva-Tabaquite-Talparo', 177),
+    ('Diego Martin', 177),
+    ('Eastern Tobago', 177),
+    ('Penal-Debe', 177),
+    ('Point Fortin', 177),
+    ('Port of Spain', 177),
+    ('Princes Town', 177),
+    ('Rio Claro-Mayaro', 177),
+    ('San Fernando', 177),
+    ('Sangre Grande', 177),
+    ('San Juan-Laventille', 177),
+    ('Siparia', 177),
+    ('Tunapuna-Piarco', 177),
+    ('Western Tobago', 177);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Tunis', 178),
+    ('Ariana', 178),
+    ('Ben Arous', 178),
+    ('Manouba', 178),
+    ('Nabeul', 178),
+    ('Zaghouan', 178),
+    ('Bizerte', 178),
+    ('Béja', 178),
+    ('Jendouba', 178),
+    ('Kef', 178),
+    ('Tataouine', 178);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Istanbul', 179),
+    ('Ankara', 179),
+    ('Izmir', 179),
+    ('Bursa', 179),
+    ('Adana', 179),
+    ('Antalya', 179),
+    ('Konya', 179),
+    ('Gaziantep', 179),
+    ('Kocaeli', 179),
+    ('Mersin', 179),
+    ('Samsun', 179);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Funafuti', 181),
+    ('Nanumea', 181),
+    ('Nanumaga', 181),
+    ('Niutao', 181),
+    ('Nui', 181),
+    ('Nukufetau', 181),
+    ('Nukulaelae', 181),
+    ('Vaitupu', 181);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Central Region', 182),
+    ('Eastern Region', 182),
+    ('Northern Region', 182),
+    ('Western Region', 182),
+    ('Kampala District', 182),
+    ('Jinja District', 182),
+    ('Gulu District', 182),
+    ('Mbarara District', 182),
+    ('Mbale District', 182);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Cherkasy Oblast', 183),
+    ('Chernihiv Oblast', 183),
+    ('Chernivtsi Oblast', 183),
+    ('Dnipropetrovsk Oblast', 183),
+    ('Donetsk Oblast', 183),
+    ('Ivano-Frankivsk Oblast', 183),
+    ('Kharkiv Oblast', 183),
+    ('Kherson Oblast', 183),
+    ('Khmelnytskyi Oblast', 183),
+    ('Kirovohrad Oblast', 183),
+    ('Kyiv Oblast', 183),
+    ('Luhansk Oblast', 183),
+    ('Lviv Oblast', 183),
+    ('Mykolaiv Oblast', 183),
+    ('Odessa Oblast', 183),
+    ('Poltava Oblast', 183),
+    ('Rivne Oblast', 183),
+    ('Sumy Oblast', 183),
+    ('Ternopil Oblast', 183),
+    ('Vinnytsia Oblast', 183),
+    ('Volyn Oblast', 183),
+    ('Zakarpattia Oblast', 183),
+    ('Zaporizhia Oblast', 183),
+    ('Zhytomyr Oblast', 183);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Abu Dhabi', 184),
+    ('Dubai', 184),
+    ('Sharjah', 184),
+    ('Ajman', 184),
+    ('Umm Al Quwain', 184),
+    ('Ras Al Khaimah', 184),
+    ('Fujairah', 184);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('England', 185),
+    ('Scotland', 185),
+    ('Wales', 185),
+    ('Northern Ireland', 185);
+
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Alabama', 186),
+    ('Alaska', 186),
+    ('Arizona', 186),
+    ('Arkansas', 186),
+    ('California', 186),
+    ('Colorado', 186),
+    ('Connecticut', 186),
+    ('Delaware', 186),
+    ('Florida', 186),
+    ('Georgia', 186),
+    ('Hawaii', 186),
+    ('Idaho', 186),
+    ('Illinois', 186),
+    ('Indiana', 186),
+    ('Iowa', 186),
+    ('Kansas', 186),
+    ('Kentucky', 186),
+    ('Louisiana', 186),
+    ('Maine', 186),
+    ('Maryland', 186),
+    ('Massachusetts', 186),
+    ('Michigan', 186),
+    ('Minnesota', 186),
+    ('Mississippi', 186),
+    ('Missouri', 186),
+    ('Montana', 186),
+    ('Nebraska', 186),
+    ('Nevada', 186),
+    ('New Hampshire', 186),
+    ('New Jersey', 186),
+    ('New Mexico', 186),
+    ('New York', 186),
+    ('North Carolina', 186),
+    ('North Dakota', 186),
+    ('Ohio', 186),
+    ('Oklahoma', 186),
+    ('Oregon', 186),
+    ('Pennsylvania', 186),
+    ('Rhode Island', 186),
+    ('South Carolina', 186),
+    ('South Dakota', 186),
+    ('Tennessee', 186),
+    ('Texas', 186),
+    ('Utah', 186),
+    ('Vermont', 186),
+    ('Virginia', 186),
+    ('Washington', 186),
+    ('West Virginia', 186),
+    ('Wisconsin', 186),
+    ('Wyoming', 186);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Montevideo', 187),
+    ('Canelones', 187),
+    ('Maldonado', 187),
+    ('Rocha', 187),
+    ('Salto', 187),
+    ('Paysandú', 187),
+    ('Rivera', 187),
+    ('Artigas', 187),
+    ('Tacuarembó', 187);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Tashkent', 188),
+    ('Andijan', 188),
+    ('Bukhara', 188),
+    ('Fergana', 188),
+    ('Jizzakh', 188),
+    ('Namangan', 188),
+    ('Navoiy', 188),
+    ('Qashqadaryo', 188),
+    ('Samarqand', 188),
+    ('Sirdaryo', 188),
+    ('Surxondaryo', 188),
+    ('Xorazm', 188),
+    ('Karakalpakstan', 188);
+    
+ 
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Amazonas', 190),
+    ('Anzoátegui', 190),
+    ('Apure', 190),
+    ('Aragua', 190),
+    ('Barinas', 190),
+    ('Bolívar', 190),
+    ('Carabobo', 190),
+    ('Cojedes', 190),
+    ('Delta Amacuro', 190),
+    ('Falcón', 190),
+    ('Yaracuy', 190);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Hanoi', 191),
+    ('Ho Chi Minh City', 191),
+    ('Haiphong', 191),
+    ('Can Tho', 191),
+    ('Da Nang', 191),
+    ('Hai Duong', 191),
+    ('Bac Giang', 191),
+    ('Binh Duong', 191),
+    ('Dong Nai', 191),
+    ('Lam Dong', 191),
+    ('Quang Ninh', 191),
+    ('Thua Thien-Hue', 191),
+    ('Khanh Hoa', 191),
+    ('Nam Dinh', 191);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Abyan', 192),
+    ('Ad Dali', 192),
+    ('Al Bayda', 192),
+    ('Al Hudaydah', 192),
+    ('Al Jawf', 192),
+    ('Al Mahrah', 192),
+    ('Al Mahwit', 192),
+    ('Amran', 192),
+    ('Dhamar', 192),
+    ('Hadhramaut', 192),
+    ('Saada', 192);
+    
+    INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Lusaka', 193),
+    ('Copperbelt', 193),
+    ('Central', 193),
+    ('Southern', 193),
+    ('Northern', 193),
+    ('Eastern', 193),
+    ('Western', 193),
+    ('Luapula', 193),
+    ('North Western', 193);
+
+INSERT INTO syntiaro_pos.state (state_name, country_id)
+VALUES
+    ('Harare', 194),
+    ('Bulawayo', 194),
+    ('Mashonaland Central', 194),
+    ('Mashonaland East', 194),
+    ('Mashonaland West', 194),
+    ('Manicaland', 194),
+    ('Midlands', 194),
+    ('Masvingo', 194),
+    ('Matabeleland North', 194),
+    ('Matabeleland South', 194);
+
