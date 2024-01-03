@@ -1,0 +1,13 @@
+@media (max-width: 480px) {
+  .text-center {
+    font-size: 3vh !important;
+    margin-top: 2vh !important;
+  }
+  .homeimg img {
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+    height: 40vh !important;
+    width: 95vw !important;
+    float: left !important;
+  }
+}

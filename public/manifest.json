@@ -1,0 +1,25 @@
+{
+  "short_name": "UBS POS",
+  "name": "UBS POS",
+  "icons": [
+    {
+      "src": "SYS.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "SYS.png",
+      "type": "SYS/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "SYS.png",
+      "type": "SYS/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
